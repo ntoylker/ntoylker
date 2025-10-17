@@ -44,4 +44,4 @@ I'm an aspiring engineer passionate about **Cybersecurity** and **Machine Learni
 
 ---
 
-> “The beautiful thing about learning is that nobody can take it away from you.” – B.B. King
+> “Nemo vir est qui mundum non reddat meliorem”
