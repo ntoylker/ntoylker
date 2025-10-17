@@ -1,11 +1,11 @@
-# Hi there, I'm Nikolaos Toulkeridis 👋
+# Hi there, I'm Nikos Toulkeridis 👋
 
 🎓 **Undergraduate Student in Electrical and Computer Engineering**  
 📍 Aristotle University of Thessaloniki
 
 ---
 
-## 👨‍💻 About Me
+## ⚔️ About Me
 
 I'm an aspiring engineer passionate about **Cybersecurity** and **Machine Learning applications**. My journey at the Aristotle University of Thessaloniki has fueled my curiosity and eagerness to gain deeper knowledge in these exciting fields. I love exploring new technologies, taking on challenging problems, and collaborating with others who share my enthusiasm for innovation.
 
@@ -23,6 +23,7 @@ I'm an aspiring engineer passionate about **Cybersecurity** and **Machine Learni
 - Advanced Cybersecurity techniques
 - Deep Learning and AI applications
 - Real-world ML deployment
+- Data Bases
 
 ---
 
